@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository to learn github
+Hi everyone, my name is JohnnyJava!
